@@ -1,0 +1,20 @@
+{
+  "partners": [
+    {
+      "code": "513946525426",
+      "ownerID": "708111447183589396",
+      "icon": "https://dabotlistml-3.xplugzxbot.repl.co/img/logo.png",
+      "serverName": "DaBotList Discord Server",
+      "website": "https://discord.gg/92Ct8Etb8d",
+      "description": "This is the Offcial DaBotList Support Server."
+    },
+    {
+      "code": "539846116533",
+      "icon": "https://media.discordapp.net/attachments/1009284965999054919/1018190168773107842/Solar-logos_black.png?width=609&height=609",
+      "ownerID": "827304610137112586",
+      "serverName": "Solar Development",
+      "website": "",
+      "description": "This is also the Offcial Solar Development. We are updating our Content Every Week. Being Partnered with DaBotList is the Best!"
+    }
+  ]
+}
