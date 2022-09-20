@@ -20,6 +20,7 @@ Also Make sure to do this when copying here to replit.
     <li>Click on "Show Hidden Files"</li>
   <img src="https://o.remove.bg/uploads/e8d58870-14fb-48df-b591-82d9836d55fa/showhiddenfiles.PNG" alt="Show Hidden Files">
     <li>Now you should see this pop up</li>
+  <p>Click on .replit file also</p>
    <img src="https://o.remove.bg/uploads/23176a19-1563-493f-bf97-582c9c68229a/configfiles.PNG" alt="Config Files">
    <li>On Line 4, If it shows "run = "node main.js" edit that to "run = "node index.js".</li>
    <img src="https://o.remove.bg/uploads/96ec499d-f0b8-49d5-a430-6c5effaa51b5/hiddenpoint.PNG" alt="Line 4">
