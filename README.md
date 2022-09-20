@@ -25,4 +25,7 @@ Also Make sure to do this when copying here to replit.
    <li>On Line 4, If it shows "run = "node main.js" edit that to "run = "node index.js".</li>
    <img src="https://o.remove.bg/uploads/96ec499d-f0b8-49d5-a430-6c5effaa51b5/hiddenpoint.PNG" alt="Line 4">
   </ol>
-  
+
+
+<h6>Made by D4MFERN and 2k.jayy</h6>
+  <p>All Credits go to 2k.jayy for the idea of adding the soruce code</p>
