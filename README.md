@@ -29,3 +29,5 @@ Also Make sure to do this when copying here to replit.
 
 <h6>Made by D4MFERN and 2k.jayy</h6>
   <p>All Credits go to 2k.jayy for the idea of adding the soruce code</p>
+  
+ <footer>D4MFERN&copyright</footer>
