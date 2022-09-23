@@ -6,12 +6,6 @@ I will slowy release files as I'm not sure about everyone taking over it's curre
 
 
 Also Make sure to do this when copying here to replit.
-
-<p> style="text-align: center;>"<img src="https://o.remove.bg/uploads/5adfc369-d8ef-4651-8007-7d51ecb66b96/replit.PNG" alt="Blank Repl to NodeJS"></p>
-
-
-
-
 <h2>On Replit</h2>
   <p>If you upload this on Replit, Follow these steps.</p>
   <ol>
