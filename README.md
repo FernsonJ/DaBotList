@@ -31,5 +31,5 @@ Also Make sure to do this when copying here to replit.
   <p>All Credits go to 2k.jayy for the idea of adding the soruce code</p>
   
 <footer>
-			<p>D4MFERN &copy;2022</p>
+	<p>D4MFERN &copy;2022</p>
 </footer>
